@@ -1,0 +1,12 @@
+(lp0
+S'poi'
+p1
+aS'total_payments'
+p2
+aS'exercised_stock_options'
+p3
+aS'total_stock_value'
+p4
+aS'bs'
+p5
+a.
